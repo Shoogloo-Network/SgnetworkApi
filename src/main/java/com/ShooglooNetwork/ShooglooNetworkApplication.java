@@ -12,7 +12,7 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 @ComponentScan
 @EnableTransactionManagement
 @EnableAutoConfiguration
-@PropertySource("file:/opt/work/property/sgNetwork.properties")
+//@PropertySource("file:/opt/work/property/sgNetwork.properties")
 @SpringBootApplication
 public class ShooglooNetworkApplication {
 
